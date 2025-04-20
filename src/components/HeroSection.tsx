@@ -19,7 +19,7 @@ function HeroSection() {
             </div>
 
             <div className="flex mt-10 justify-center">
-                <video src=""
+                <video
                     autoPlay
                     loop
                     muted
@@ -27,7 +27,7 @@ function HeroSection() {
                     <source type="video/mp4" src={video1} />
                     Your browser does not support the video tag
                 </video>
-                <video src=""
+                <video
                     autoPlay
                     loop
                     muted
